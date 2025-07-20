@@ -3,7 +3,7 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"go-cli/helper"
+	"go-booking-cli/helper"
 	"os"
 	"strconv"
 	"strings"
